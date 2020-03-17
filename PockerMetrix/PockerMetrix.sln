@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PockerMetrix", "PockerMetrix.csproj", "{6013C0F7-8D46-4E56-A715-14F7BFE87174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PockerLib", "..\PockerLib\PockerLib.csproj", "{BD74869F-AD8A-420C-89C5-052E7AC27A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6013C0F7-8D46-4E56-A715-14F7BFE87174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6013C0F7-8D46-4E56-A715-14F7BFE87174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6013C0F7-8D46-4E56-A715-14F7BFE87174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6013C0F7-8D46-4E56-A715-14F7BFE87174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD74869F-AD8A-420C-89C5-052E7AC27A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD74869F-AD8A-420C-89C5-052E7AC27A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD74869F-AD8A-420C-89C5-052E7AC27A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD74869F-AD8A-420C-89C5-052E7AC27A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B4D8913-279A-47AE-A564-EA2BB1672932}
+	EndGlobalSection
+EndGlobal
